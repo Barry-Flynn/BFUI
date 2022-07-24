@@ -1,3 +1,4 @@
+
 <p align="center">
     <img alt="logo" src="./BFUI-logo.png" height="120" style="margin-bottom: 10px;">
 </p>
@@ -6,8 +7,11 @@
   一个正在成长的前端功能小助手（A growing front-end function assistant）
 </p>
 
-<h1 align="center">BFUI</h1>
+>本项目通过封装的一些JavaScript方法，可以让开发者在编码过程中简化很多功能的实现步骤，提高开发效率，节省开发时间。
+>
+>Through some JavaScript methods encapsulated in this project, developers can simplify the implementation steps of many functions in the coding process, improve development efficiency and save development time.
 
+<h1 align="center">BFUI</h1>
 
 
 <p align="center">
@@ -16,11 +20,6 @@
   🔥 <a href="http://docs.meta-code.top/BFUI/#/en-US" taget="_blank">英文文档（English documentation）</a>
 </p>
 
->一个正在成长的前端功能小助手（A growing front-end function assistant）
-
->本项目通过封装的一些JavaScript方法，可以让开发者在编码过程中简化很多功能的实现步骤，提高开发效率，节省开发时间。
-
->Through some JavaScript methods encapsulated in this project, developers can simplify the implementation steps of many functions in the coding process, improve development efficiency and save development time.
 
 ---
 
