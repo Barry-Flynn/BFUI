@@ -37,14 +37,21 @@ You can start using JS and CSS files on the page:
 
 ```html
 <!-- CSS -->
+<link type="text/css" rel="stylesheet" href="https://rawcdn.githack.com/Barry-Flynn/BFUI/648784c879160fce4508aaeac1e332c39b7446db/BFUI.min.css">
+<!-- JS -->
+<script type="text/javascript" src="https://rawcdn.githack.com/Barry-Flynn/BFUI/648784c879160fce4508aaeac1e332c39b7446db/BFUI.min.js"></script>
+```
+
+您可以在获取资源后，自行放置于服务器或CDN上通过绝对地址或相对地址进行在线引用。
+
+After obtaining resources, you can place them on the server or CDN by yourself and reference them online through absolute address or relative address.
+
+```html
+<!-- CSS -->
 <link type="text/css" rel="stylesheet" href="./BFUI.min.css">
 <!-- JS -->
 <script type="text/javascript" src="./BFUI.min.js"></script>
 ```
-
-您可以在获取资源后，自行放置于服务器或CDN上通过绝对地址进行在线引用。
-
-After obtaining resources, you can place them on the server or CDN by yourself and reference them online through the absolute address.
 
 ## 相关链接（Links）
 
