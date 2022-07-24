@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="logo" src="./public/images/BFUI-banner.png" height="120" style="margin-bottom: 10px;">
+    <img alt="logo" src="./BFUI-logo.png" height="120" style="margin-bottom: 10px;">
 </p>
 
 <h1 align="center">BFUI</h1>
