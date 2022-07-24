@@ -2,15 +2,21 @@
     <img alt="logo" src="./BFUI-logo.png" height="120" style="margin-bottom: 10px;">
 </p>
 
+<p align="center">
+  一个正在成长的前端功能小助手（A growing front-end function assistant）
+</p>
+
 <h1 align="center">BFUI</h1>
 
-一个正在成长的前端功能小助手（A growing front-end function assistant）
+
 
 <p align="center">
   🔥 <a href="http://docs.meta-code.top/BFUI/" taget="_blank">中文文档（Chinese documentation）</a>
   &nbsp;
   🔥 <a href="http://docs.meta-code.top/BFUI/#/en-US" taget="_blank">英文文档（English documentation）</a>
 </p>
+
+>一个正在成长的前端功能小助手（A growing front-end function assistant）
 
 >本项目通过封装的一些JavaScript方法，可以让开发者在编码过程中简化很多功能的实现步骤，提高开发效率，节省开发时间。
 
